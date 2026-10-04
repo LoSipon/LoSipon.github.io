@@ -1,6 +1,7 @@
 ---
 title: 我的第一篇博客
 date: 2026-10-04
+toc: true
 categories:
   - 学习记录
 tags:
