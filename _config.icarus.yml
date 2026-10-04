@@ -271,7 +271,7 @@ widgets:
         # Names and URLs of the sites
         links:
             Hexo: https://hexo.io
-            Bulma: https://bulma.io
+            Icarus: https://github.com/ppoffice/hexo-theme-icarus
     # Categories widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
